@@ -8,8 +8,8 @@ body {
 
 header {
     text-align: center;
-    background: #0f3460;
-    color: #e0e0e0;
+    background: #0a0b0d;
+    color: #f6f6ef;
     padding: 20px;
     font-size: 24px;
     font-weight: bold;
@@ -69,7 +69,7 @@ h2 {
     display: inline-block;
     margin-top: 10px;
     text-decoration: none;
-    color: #e94560;
+    color:pink;
     font-weight: bold;
 }
 
@@ -80,16 +80,16 @@ h2 {
 
 #contact p {
     margin: 5px 0;
-    color: #e0e0e0;
+    color: greenyellow;
 }
 
 #contact a {
-    color: #e94560;
+    color: #45e963;
     text-decoration: none;
     font-weight: bold;
 }
 
 #contact a:hover {
     text-decoration: underline;
-    color: #f0a500;
+    color: #f0006c;
 }
